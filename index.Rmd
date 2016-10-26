@@ -1,5 +1,6 @@
 ---
-title: "AED R and Friends: Geospatial/GIS in R"
+title: "rhodyRstats: GIS in R"
+date: 2016-10-26
 output: 
   html_notebook:
     toc: true
